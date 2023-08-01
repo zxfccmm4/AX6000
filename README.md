@@ -83,6 +83,4 @@ vim /etc/config/dhcp<br>
 
 <br>
 
-- 我使用的机场：http://www.txyun.xyz/
-- 电报：https://t.me/kjfxlyq
 
